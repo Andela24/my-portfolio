@@ -1,7 +1,10 @@
 body {
     background: blanchedalmond;
+    font-family: "Montserrat";
 }
-img {
+    img {
     height: 324px;
-   
+   position: relative;
+ 
+ 
 }
