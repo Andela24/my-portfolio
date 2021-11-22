@@ -5,7 +5,7 @@ const image = document.getElementById('image');
 image.addEventListener('click', function() {
     alert('Do not touch my coffee!');
 });
-let h4 = document.getElementByTagName('h4');
+let h4 = document.querySelector('h4');
 h4.addEventListener('mouseover', function(event) {
     event.target.style.color = "orange";
     setTimeout(function() {
