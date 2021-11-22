@@ -2,9 +2,35 @@ body {
     background: blanchedalmond;
     font-family: "Montserrat";
 }
+h1, h2, h3 {
+    font-family: "Montserrat-Bold";
+  }
+  h1, h3 {
+      color: rgb(58, 110, 179);
+  }
+  p {
+    color: #882121;
+  }
+  
     img {
     height: 324px;
    position: relative;
- 
- 
+
+}
+.buttons {
+    margin: 10%;
+}
+table {
+    margin: 5px;
+   text-align:justify;
+}
+.container-fluid{
+    padding: 7% 15%;
+  }
+
+#about  {
+margin-left: 1%;
+}
+#image {
+    margin-left: 45%;
 }
