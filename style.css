@@ -8,6 +8,12 @@ h1, h2, h3 {
   h1, h3 {
       color: rgb(58, 110, 179);
   }
+  h4 {
+    font-size: large;
+      font-family: "Montserrat-Bold";
+      font-style: oblique;
+     
+  }
   p {
     color: #882121;
   }
@@ -18,19 +24,18 @@ h1, h2, h3 {
 
 }
 .buttons {
-    margin: 10%;
+    margin-inline-start: 10%;
+    padding-top: 25px;
 }
 table {
     margin: 5px;
-   text-align:justify;
+   text-align: justify;
 }
 .container-fluid{
     padding: 7% 15%;
   }
 
-#about  {
-margin-left: 1%;
-}
+
 #image {
     margin-left: 45%;
 }
